@@ -2,7 +2,7 @@
 
 **`Estudante Ciência da Computação`**
 
-Me chamo Rafael Takahagi Mendes, tenho 20 anos e sou de São Paulo. Atualmente estou no 6° semestre, cursando Ciência da Computação na FEI. Gosto muito de tecnologia e sempre busco aprender mais coisas da área através de cursos e projetos pessoais. Mais informações estão no meu [LinkedIn](https://www.linkedin.com/in/rafael-mendes-4abb77309).
+Me chamo Rafael Takahagi Mendes, tenho 22 anos e sou de São Paulo. Atualmente estou no 8° semestre, cursando Ciência da Computação na FEI. Gosto muito de tecnologia e sempre busco aprender mais coisas da área através de cursos e projetos pessoais. Mais informações estão no meu [LinkedIn](https://www.linkedin.com/in/rafael-mendes-4abb77309).
 
 ---
 
